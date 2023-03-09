@@ -1,0 +1,15 @@
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\bin\Debug\net6.0\Exercise003_%.exe
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\bin\Debug\net6.0\Exercise003_%.deps.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\bin\Debug\net6.0\Exercise003_%.runtimeconfig.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\bin\Debug\net6.0\Exercise003_%.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\bin\Debug\net6.0\Exercise003_%.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.csproj.AssemblyReference.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.AssemblyInfoInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.AssemblyInfo.cs
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.csproj.CoreCompileInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\refint\Exercise003_%.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\Exercise003_%.genruntimeconfig.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise003_%\obj\Debug\net6.0\ref\Exercise003_%.dll
