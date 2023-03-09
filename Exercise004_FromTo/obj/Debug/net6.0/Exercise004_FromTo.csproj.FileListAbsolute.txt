@@ -1,0 +1,15 @@
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.csproj.AssemblyReference.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.AssemblyInfoInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.AssemblyInfo.cs
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.csproj.CoreCompileInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\bin\Debug\net6.0\Exercise004_FromTo.exe
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\bin\Debug\net6.0\Exercise004_FromTo.deps.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\bin\Debug\net6.0\Exercise004_FromTo.runtimeconfig.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\bin\Debug\net6.0\Exercise004_FromTo.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\bin\Debug\net6.0\Exercise004_FromTo.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\refint\Exercise004_FromTo.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\Exercise004_FromTo.genruntimeconfig.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise004_FromTo\obj\Debug\net6.0\ref\Exercise004_FromTo.dll
