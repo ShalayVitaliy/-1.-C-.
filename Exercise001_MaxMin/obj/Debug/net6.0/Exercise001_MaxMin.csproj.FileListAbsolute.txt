@@ -1,0 +1,15 @@
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\bin\Debug\net6.0\Exercise001_MaxMin.exe
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\bin\Debug\net6.0\Exercise001_MaxMin.deps.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\bin\Debug\net6.0\Exercise001_MaxMin.runtimeconfig.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\bin\Debug\net6.0\Exercise001_MaxMin.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\bin\Debug\net6.0\Exercise001_MaxMin.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.csproj.AssemblyReference.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.AssemblyInfoInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.AssemblyInfo.cs
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\refint\Exercise001_MaxMin.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\Exercise001_MaxMin.genruntimeconfig.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise001_MaxMin\obj\Debug\net6.0\ref\Exercise001_MaxMin.dll
