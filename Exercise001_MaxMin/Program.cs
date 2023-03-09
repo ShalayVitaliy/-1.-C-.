@@ -1,8 +1,8 @@
 ﻿Console.Clear();
 Console.Write("Введите число 1-ое: ");
-double n1 = Convert.ToInt32(Console.ReadLine());
+int n1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число 2-ое: ");
-double n2 = Convert.ToInt32(Console.ReadLine());
+int n2 = Convert.ToInt32(Console.ReadLine());
 
 if (n1 > n2)
 {
