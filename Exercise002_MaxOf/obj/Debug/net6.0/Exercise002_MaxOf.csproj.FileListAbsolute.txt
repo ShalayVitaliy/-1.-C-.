@@ -1,0 +1,15 @@
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\bin\Debug\net6.0\Exercise002_MaxOf.exe
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\bin\Debug\net6.0\Exercise002_MaxOf.deps.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\bin\Debug\net6.0\Exercise002_MaxOf.runtimeconfig.json
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\bin\Debug\net6.0\Exercise002_MaxOf.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\bin\Debug\net6.0\Exercise002_MaxOf.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.csproj.AssemblyReference.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.AssemblyInfoInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.AssemblyInfo.cs
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.csproj.CoreCompileInputs.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\refint\Exercise002_MaxOf.dll
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.pdb
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\Exercise002_MaxOf.genruntimeconfig.cache
+C:\Users\Vitalymbo\Desktop\GeekBrains\1 четверть\Семинары\3. Знакомство с языками программирования\Урок 1\ДЗ\Exercise002_MaxOf\obj\Debug\net6.0\ref\Exercise002_MaxOf.dll
